@@ -1,0 +1,8 @@
+# Drop Box Links
+
+Airport Baggage: https://www.dropbox.com/s/gk2a14w9varvd6l/baggage.mp4?dl=0
+Flights: https://www.dropbox.com/s/3cbuxcbx5s2hmjv/flights.mp4?dl=0
+Cars / Traffic: https://www.dropbox.com/s/mutgyuma8m0m0fw/traffic.mp4?dl=0
+
+After downloading, move the files to opencv-airport-object-tracking folder. To execute the video file for processing, edit the object_tracking.py and change the value inside the brackets with video extension:
+eg: cap = cv2.VideoCapture("baggage.mp4")

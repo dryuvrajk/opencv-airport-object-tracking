@@ -1,0 +1,5 @@
+# Drop Box Link 
+
+https://www.dropbox.com/s/mw5o5e4oxqa1vnq/yolov4.weights?dl=0
+
+After downloading, move the file to dnn_model folder
